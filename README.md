@@ -1,6 +1,6 @@
 # Webpack Starter
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+Algunos ejemplos sobre callbacks, promesas, async, await, for await y if await.
 
 ### Notas:
 Recuerden reconstruir los módulos de Node
